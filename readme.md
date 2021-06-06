@@ -16,4 +16,8 @@
 ## Some methods maybe belong to another class
 ## But in general the code is much cleaner
 ## Now it ask at the end if you want to play again
+<<<<<<< HEAD
 ## It could be improve a little more, but for now it will stay this way 
+=======
+## It could be improve a little more, but for now it will stay this way 
+>>>>>>> eea249648df98b8fe3eca2bb98fc1a26c8f3daf7
