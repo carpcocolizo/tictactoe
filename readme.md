@@ -9,3 +9,11 @@
 ## But what can I say, my game works
 ## Is not pretty code
 ## And it should have a different order!
+
+## I changed a few things
+## I created a new class call NewGame
+## I initialize a new game from there, I think it make it easier to read
+## Some methods maybe belong to another class
+## But in general the code is much cleaner
+## Now it ask at the end if you want to play again
+## It could be improve a little more, but for now it will stay this way 
